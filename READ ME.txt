@@ -1,0 +1,8 @@
+Add the TFTLCD Library and TouchScreen library 
+To My Documents>Arduino folder>Libraries folder> (Paste it)
+
+Reference Site:
+https://electronicavm.net/2015/03/05/tft-lcd-touch-2-4-shield-para-arduino-uno/
+
+TFT 2.4 shield
+uses: tft.begin(0x9325); // ILI9325 driver (e-Gizmo 2.4" TFT Touchscreen Shield)
